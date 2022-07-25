@@ -1,0 +1,9 @@
+{
+    "attributes":{
+        "color":"Blue",
+        "value": "ABC"
+    },
+    "description":"My Thor NFT",
+    "image":"https://gateway.pinata.cloud/ipfs/QmNvZrANK1sXDMK5hs7UY3xgWMvEZpkBafnFBCSs56n5qB",
+    "name":"Thor"
+}
